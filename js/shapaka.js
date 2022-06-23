@@ -13,7 +13,7 @@ var headerText = `<div>
   </form>
 </li>
       
-       <a href="test.html"><li>Главная страница</li></a>
+       <a href="index.html"><li>Главная страница</li></a>
        
        <a href="cotalog.html"><li>Каталог
          <ul class="submenu">
