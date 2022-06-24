@@ -256,6 +256,33 @@ a.badge:focus,a.badge:hover {
   left: 20%;
 }
 
+.text_osn_halp { 
+  text-align: center;
+}
+
+.text_osn_halp p {
+  font-size: 20px;
+  color:#fff!important;
+  text-shadow: 4px 4px 4px #000;
+
+}
+
+.text_osn_halp h1, h2, h3 {
+  color:#fff!important;
+  text-shadow: 4px 4px 4px #000;
+  top: 45%;
+  left: 20%;
+
+}
+
+.text_osn_halp ol {
+  color:#fff!important;
+  text-shadow: 4px 4px 4px #000;
+  top: 45%;
+  left: 20%;
+  list-style-type: none;
+}
+
 .vid {
   position: absolute;
   top: 450;
