@@ -1,0 +1,291 @@
+[
+  {
+    "id": "1",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "18000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "2",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "25000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "3",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "35000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "4",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "20000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "5",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "19000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "6",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "35000",
+    "img": "images/comp.png"
+  },
+
+  {
+    "id": "7",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "35000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "8",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "25000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "9",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "35000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "10",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "20000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "11",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "19000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "12",
+    "name": "Игровой компьютер GoodPC_ROG",
+    "price": "35000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "13",
+    "name": "Игровая мыш PCmaster DG1",
+    "price": "1200",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "14",
+    "name": "Игровая мыш PCmaster DG2",
+    "price": "1500",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "15",
+    "name": "Игровая мыш PCmaster DG3",
+    "price": "1800",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "16",
+    "name": "Игровая мыш MSI GG",
+    "price": "1700",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "17",
+    "name": "Игровая мыш Danger",
+    "price": "1750",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "18",
+    "name": "Игровая мыш COUGAR H1",
+    "price": "1650",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "19",
+    "name": "Игровая клавиатура Razer Huntsman V2",
+    "price": "12000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "20",
+    "name": "Игровая клавиатура Razer BlackWidow X",
+    "price": "8800",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "21",
+    "name": "Игровая клавиатура Modecom Volcano",
+    "price": "7300",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "22",
+    "name": "Игровая клавиатура PCmaster redragon",
+    "price": "5700",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "23",
+    "name": "Игровая клавиатура Razer Huntsman V1",
+    "price": "11500",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "24",
+    "name": "Игровая клавиатура HP V2",
+    "price": "2650",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "25",
+    "name": "Игровые наушники motosti-5",
+    "price": "3000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "26",
+    "name": "Игровые наушники PCmaster RedDragon",
+    "price": "3800",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "27",
+    "name": "Игровые наушники PCmaster Z60",
+    "price": "4300",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "28",
+    "name": "Игровые наушники Corsair Gaming HS70",
+    "price": "5700",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "29",
+    "name": "Игровые наушники HYPERX Cloud II",
+    "price": "4500",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "30",
+    "name": "Игровые наушники Defender Warhead G-120",
+    "price": "4600",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "31",
+    "name": "Игровая материнская плата NZXT N7",
+    "price": "31000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "32",
+    "name": "Игровая материнская плата AORUS Gaming 7",
+    "price": "41000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "33",
+    "name": "Игровая материнская плата ASUS Strix",
+    "price": "40300",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "34",
+    "name": "Игровая материнская плата MSI H310MHP",
+    "price": "4700",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "35",
+    "name": "Игровая материнская плата MSI GAming M7",
+    "price": "40000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "36",
+    "name": "Игровая материнская плата AORUS Zenith EXTREME",
+    "price": "40600",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "37",
+    "name": "Игровая видеокарта MSI GeForce RTX 3090",
+    "price": "166000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "38",
+    "name": "Игровая видеокарта ASUS GeForce GTX 1050ti",
+    "price": "36000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "39",
+    "name": "Игровая видеокарта GIGABAYTE GeForce GTX 1080ti",
+    "price": "85300",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "40",
+    "name": "Игровая видеокарта GIGABAYTE GeForce GT 1030",
+    "price": "9200",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "41",
+    "name": "Игровая видеокарта MSI GeForce GTX 1080ti",
+    "price": "68000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "42",
+    "name": "Игровая видеокарта ASUS GeForce GTX 1080",
+    "price": "28900",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "43",
+    "name": "SSD накопитель PANTHER Apacer 512GB",
+    "price": "2500",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "44",
+    "name": "SSD накопитель SAMSUNG 512GB",
+    "price": "3600",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "45",
+    "name": "SSD накопитель Kingston 512GB",
+    "price": "3000",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "46",
+    "name": "M.2.SSD накопитель Apacer 2TB",
+    "price": "9200",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "47",
+    "name": "M.2.SSD накопитель Apacer 2TB",
+    "price": "9900",
+    "img": "images/comp.png"
+  },
+  {
+    "id": "48",
+    "name": "M.2.SSD накопитель Apacer 1TB",
+    "price": "7300",
+    "img": "images/comp.png"
+  }
+]
