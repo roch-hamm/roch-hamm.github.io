@@ -1,75 +1,75 @@
 [
   {
     "id": "1",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "18000",
+    "name": "Игровой компьютер PCKastom_1",
+    "price": "85000",
     
   },
   {
     "id": "2",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "25000",
+    "name": "Игровой компьютер PCKastom_2",
+    "price": "110000",
     
   },
   {
     "id": "3",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "35000",
+    "name": "Игровой компьютер PCKastom_3",
+    "price": "105000",
     
   },
   {
     "id": "4",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "20000",
+    "name": "Игровой компьютер PCKastom_4",
+    "price": "115000",
     
   },
   {
     "id": "5",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "19000",
+    "name": "Игровой компьютер CoolerMaster",
+    "price": "95000",
     
   },
   {
     "id": "6",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "35000",
+    "name": "Игровой компьютер PCKastom_5",
+    "price": "230000",
     
   },
 
   {
     "id": "7",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "35000",
+    "name": "Игровой ноутбук Asus_ROG",
+    "price": "56000",
     
   },
   {
     "id": "8",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "25000",
+    "name": "Игровой ноутбук Asus PRO",
+    "price": "45000",
     
   },
   {
     "id": "9",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "35000",
+    "name": "Игровой ноутбук MSI G6",
+    "price": "65000",
     
   },
   {
     "id": "10",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "20000",
+    "name": "Игровой ноутбук MSI G5",
+    "price": "62000",
     
   },
   {
     "id": "11",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "19000",
+    "name": "Ноутбук Schenker S1",
+    "price": "22000",
     
   },
   {
     "id": "12",
-    "name": "Игровой компьютер GoodPC_ROG",
-    "price": "35000",
+    "name": "Ноутбук Lenovo V5",
+    "price": "25000",
     
   },
   {
