@@ -29,6 +29,7 @@ var headerText = `<div>
       </li></a>
       
       <a href="cart.html"><li>Корзина<span id="total-cart-count" class="badge"></span></li></a>
+      <a href="halp.html"><li>Помощь<span id="total-cart-count" class="badge"></span></li></a>
   </ul>
 </nav>  
 </div ></span>
